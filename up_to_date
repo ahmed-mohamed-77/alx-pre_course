@@ -1,0 +1,4 @@
+git fetch origin
+ls
+git pull origin 
+cat README.md
